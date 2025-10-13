@@ -1,0 +1,29 @@
+body {
+  background: radial-gradient(#000, #111);
+  color: #0ff;
+  font-family: 'Orbitron', sans-serif;
+  text-align: center;
+  padding: 2rem;
+}
+
+canvas {
+  border: 2px solid #0ff;
+  box-shadow: 0 0 20px #0ff;
+  margin-bottom: 1rem;
+}
+
+button {
+  background: #0ff;
+  color: #000;
+  border: none;
+  padding: 0.8rem 1.2rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 8px;
+  box-shadow: 0 0 10px #0ff;
+  transition: transform 0.2s ease;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
