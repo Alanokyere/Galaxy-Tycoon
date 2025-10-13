@@ -3,7 +3,6 @@
 **Galaxy Tycoon** is a canvas-powered space simulation game built with pure JavaScript, HTML, and SCSS — no external assets, no icons, just dynamic visuals and modular code. Discover planets, collect resources, and expand your empire across the stars.
 
 ![Galaxy Tycoon Banner](https://dummyimage.com/800x200/000/0ff&text=Galaxy+Tycoon+by+Murad)
-
 ---
 
 ## 🚀 Features
