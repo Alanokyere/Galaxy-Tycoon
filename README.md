@@ -25,7 +25,7 @@ npm run scss
 Then open index.html in your browser and start discovering planets!
 
 📷 Preview
-
+![Copilot Screenshot](./screenshort.png)
 
 🧠 Lore Snippets
 "In the year 3025, humanity expanded beyond the Milky Way." "Gas giants hold secrets of quantum energy." "Rocky worlds are rich in metal but hostile to life."
