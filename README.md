@@ -27,11 +27,16 @@ Then open index.html in your browser and start discovering planets!
 📷 Preview
 ![Copilot Screenshot](./screenshort.png)
 
+## 🌐 Live Demo
+
+Experience Galaxy Tycoon in action:  
+👉 [Launch Demo](galaxy-tycoon.vercel.app)
+
 🧠 Lore Snippets
 "In the year 3025, humanity expanded beyond the Milky Way." "Gas giants hold secrets of quantum energy." "Rocky worlds are rich in metal but hostile to life."
 
 🧑‍🚀 Author
-Murad – Visionary backend architect and full-stack developer GitHub: github.com/yourusername Twitter: @yourhandle Discord: yourdiscord#1234
+Murad – Visionary backend architect and full-stack developer GitHub.
 
 📄 License
 This project is licensed under the MIT License. See LICENSE for details.
