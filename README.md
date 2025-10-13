@@ -36,7 +36,7 @@ Experience Galaxy Tycoon in action:
 "In the year 3025, humanity expanded beyond the Milky Way." "Gas giants hold secrets of quantum energy." "Rocky worlds are rich in metal but hostile to life."
 
 🧑‍🚀 Author
-Murad – Visionary backend architect and full-stack developer GitHub.
+Murad – Visionary backend architect and full-stack developer.
 
 📄 License
 This project is licensed under the MIT License. See LICENSE for details.
