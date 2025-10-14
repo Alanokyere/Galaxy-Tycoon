@@ -12,7 +12,6 @@
 - 🌌 **Planet discovery engine**: Procedural generation of gas, rocky, and ice worlds
 - 📈 **Resource system**: Metal and energy tracking with dynamic UI updates
 - 💡 **No images, no icons**: Everything is generated — lightweight and GitHub-friendly
-
 ---
 
 ## 🛠️ Setup
