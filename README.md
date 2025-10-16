@@ -28,6 +28,7 @@ Then open index.html in your browser and start discovering planets!
 ## 🌐 Live Demo
 
 Experience Galaxy Tycoon in action:  
+
 👉 [Launch Demo](galaxy-tycoon.vercel.app)
 
 🧠 Lore Snippets
